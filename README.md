@@ -3,8 +3,11 @@ ALINX ALTERA FPGA黑金开发学习板 CYCLONE IV 数电课设八位模型机
 
 有用的文件的目录
 │  微指令流程图.png
+
 │  微指令编码.png
+
 │  指令编码.png
+
 │  控制信号作用.png
 │  流程图.png
 │  结构图.png
