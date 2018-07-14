@@ -1,0 +1,38 @@
+# Reading C:/intelFPGA/18.0/modelsim_ase/tcl/vsim/pref.tcl
+# do cpu_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA/18.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/code/shudiankeshe/cpu_defs.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:09:45 on Jul 10,2018
+# vcom -reportprogress 300 -93 -work work C:/code/shudiankeshe/cpu_defs.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package cpu_defs
+# -- Compiling package body cpu_defs
+# -- Loading package cpu_defs
+# End time: 17:09:45 on Jul 10,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/code/shudiankeshe/cpu.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:09:45 on Jul 10,2018
+# vcom -reportprogress 300 -93 -work work C:/code/shudiankeshe/cpu.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cpu_defs
+# -- Compiling entity CPU
+# -- Compiling architecture rtl of CPU
+# End time: 17:09:45 on Jul 10,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 

@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "alu_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "alu_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "alu_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "alu_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "alu_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "alu_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "alu_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "alu_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "acc[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rrr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mdr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mdr_or_r",
+					"strict" : false
+				},
+				{
+					"name" : "alu_and",
+					"strict" : false
+				},
+				{
+					"name" : "alu_add",
+					"strict" : false
+				},
+				{
+					"name" : "alu_sub",
+					"strict" : false
+				},
+				{
+					"name" : "alu_srl",
+					"strict" : false
+				},
+				{
+					"name" : "acc[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rrr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mdr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "acc[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rrr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mdr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "acc[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rrr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mdr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "acc[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rrr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mdr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "acc[5]",
+					"strict" : false
+				},
+				{
+					"name" : "rrr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mdr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "acc[6]",
+					"strict" : false
+				},
+				{
+					"name" : "rrr[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mdr[6]",
+					"strict" : false
+				},
+				{
+					"name" : "acc[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rrr[7]",
+					"strict" : false
+				},
+				{
+					"name" : "mdr[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
